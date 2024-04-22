@@ -13,3 +13,6 @@
     - "git log" is used to show commit history and specific changes.
     - "git checkout" is used to navigate between the branches created by "git branch"
     - "git branch" is used to create, list, rename, and delete branches.
+
+4. Hvað er útgáfustýring (Version Control)?
+    - Version Control is the practice of tracking and managing changes to software code.
