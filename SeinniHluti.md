@@ -16,3 +16,7 @@
 
 4. Hvað er útgáfustýring (Version Control)?
     - Version Control is the practice of tracking and managing changes to software code.
+
+5. Hverjir eru helstu kostir við að nota GIT?
+    - PROS: It supports large project, offers lightweight branches, and has a vast ecosystem of tools and intergrations.
+    - CONS: Stepper learning curve for beginners, complex commands and decentralized nature.
