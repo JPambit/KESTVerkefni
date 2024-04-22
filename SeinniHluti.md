@@ -20,3 +20,6 @@
 5. Hverjir eru helstu kostir við að nota GIT?
     - PROS: It supports large project, offers lightweight branches, and has a vast ecosystem of tools and intergrations.
     - CONS: Stepper learning curve for beginners, complex commands and decentralized nature.
+
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+    - I personally think you should do it very often, especially when you´re done with a working bit of code.
