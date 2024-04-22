@@ -8,3 +8,8 @@
     - "git clone" is used to make a copy of the existing git directory. (Basically creates a new branch outside of main).
     - "git status" is used to check if your branch is up to date and if you have any changes that you are yet to commit.
     - "git diff" is used to compare and show the difference between two version of the same file.
+
+3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
+    - "git log" is used to show commit history and specific changes.
+    - "git checkout" is used to navigate between the branches created by "git branch"
+    - "git branch" is used to create, list, rename, and delete branches.
