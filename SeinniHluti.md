@@ -23,3 +23,7 @@
 
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
     - I personally think you should do it very often, especially when you´re done with a working bit of code.
+
+7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+    - Working directory is where you work on your files locally.
+    - Staging Area (Index) is a temporary holding area where you choose changes to include in the next commit.
